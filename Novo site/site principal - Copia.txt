@@ -1,0 +1,71 @@
+<DOCTYPE html>
+<html lang="pt-br">
+     <head>
+         <meta charset="utf-8">
+         <meta name="author" content="Evandro Felipe Prestes">
+         <meta name="description" content="Atividade pendente">
+         <meta name="keywords" content="atividade, tarefa, site">
+         <title> Receitas Caseiras </title>
+         <link rel="shortcut icon" href="logo1.png" type="image/x-icon">
+         <link rel="stylesheet" type="text/css" href="style.css">
+     </head>
+    
+             <body>
+                    
+
+                 <header id="cabecalho">
+
+                    <div id="interface">
+                    <figure class="logo">
+                    <img id="central" src="logo1.png">
+                    </figure> 
+            <hgroup id="ww">
+
+             <h1 style="text-align: center;"><br>Receitas Caseiras</h1>
+             <h2 style="text-align: center;">Realize você mesmo receitas fáceis e super gostosas</h2>
+
+             <article id="que">
+                <p><h1>Bateu aquela fome e você não quer se complicar e fazer aquelas receitas super difícies? Nosso site foi feito para isso! </p>
+                <p>Aqui no <span style="font-weight: bolder;">Receitas Caseiras</span>, você pode acessar diversas receitas super fáceis e gostosas com aquele gostinho especial de casa.</p></h1>
+             </article>
+             
+             <figure class="atr">
+            
+             <img id="a" src="12.jfif">
+             <img id="b" src="13.jpg">
+             <img id="c" src="14.jpg">
+           
+             </figure>
+            </hgroup>                   
+                     <nav id="menu">
+                     <ul type="disc">
+                     <li><a href=""> Home </a></li>
+                     <li><a href=""> Receitas </a></li>
+                     <li><a href=""> Dúvidas </a></li>
+                     <li><a href=""> Redes sociais </a></li>
+
+                     </ul>
+                     </nav>
+                 </header>
+
+                 <center id="topicos">
+            <hgroup id="topicos">
+         <nav id=topicos>
+         <ul type="topicos">
+         <li><a href=""> Todas as receitas</a></li>
+         <li><a href=""> Receitas Mineiras</a></li>  
+         <li><a href=""> Receitas Gaúchas</a></li>  
+         <li><a href=""> Receitas Nordestinas</a></li>      
+         <li><a href=""> Outros </a></li>  
+         </ul>    
+         </h2>     
+         </nav>
+             <h3 style="font: status-bar;">Site criado por Evandro Felipe Prestes</h3>
+
+            </hgroup>
+                 </center>
+             
+                     </div>
+             </body>
+</html>
+    
